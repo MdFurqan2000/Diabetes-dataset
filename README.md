@@ -5,7 +5,8 @@ In this project, the objective is to predict whether the person has Diabetes or 
 
 Diabetes Prediction is my weekend practice project. In this I used DecisionTreeClassifier  to trained model that is used to predict the positive or negative result. I used GridSearchCV and RandomizedSearchCV to find the optimal hyperparameters to increase the model performance.
 
-
+## Acknowledgement
+I downloaded this dataset from kaggle.
 ## 🛠 Skills
 Python...
 
